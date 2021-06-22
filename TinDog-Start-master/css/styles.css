@@ -1,0 +1,160 @@
+body{
+  font-family:"cursive";
+}
+
+/* <section id="title"> */
+
+#title {
+  background-color: #ff4c68;
+  color: #ffffff;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+.h{
+font-family: 'Lilita One', cursive;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 70px;
+}
+.row{
+  text-align: center;
+}
+i {
+  margin-right: 10px;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+  color: #ffffff;
+}
+.download-button{
+  margin:5% 3% 5% 0;
+}
+.title-img{
+  width: 38%;
+  transform: rotate(25deg);
+}
+/* <!-- Features --> */
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+}
+.check-list{
+  color:#ff4c68;
+  margin-bottom: 1rem;
+}
+.check-list:hover{
+  color:  #ef8172;
+}
+.heart-1{
+color:#ff4c68;
+margin-bottom: 1rem;
+}
+.heart-1:hover{
+  color:  #ef8172;
+}
+
+.dart{
+color:#ff4c68;
+margin-bottom: 1rem;
+}
+.dart:hover{
+  color:  #ef8172;
+}
+.feature-box{
+  text-align: center;
+padding-top: 25px;
+}
+/* <!-- Testimonials --> */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+.hh{
+  font-family: 'Lilita One', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-text{
+  font-family: 'Lilita One', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimg{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.testimonial-image{
+  border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+
+  /* <!-- Press --> */
+  #press{
+      background-color: #ff4c68;
+      text-align: center;
+      padding-bottom: 3%;
+  }
+  .press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+
+  /* <!-- Pricing --> */
+
+#pricing{
+  padding: 7% 15%;
+  text-align: center;
+}
+.plan{
+  font-family: 'Lilita One', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+}
+.pp{
+  font-family: 'Lilita One', cursive;
+  line-height: 1.5;
+  text-align: center;
+
+}
+h3{
+  font-family: "Lilita One', cursive"
+}
+
+
+
+/* <!-- Call to Action --> */
+#cta{
+  text-align: center;
+  background-color:#ff4c68;
+    padding: 7% 15%;
+    color: #fff;
+}
+.e{
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.copy{
+  padding-top: 25px;
+}
+.Social-icon{
+  margin: 20px 10px;
+}
